@@ -1,0 +1,2 @@
+from simacro import *
+macroGUI()
